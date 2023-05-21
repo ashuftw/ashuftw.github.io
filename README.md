@@ -14,6 +14,6 @@ The purpose of this website is to I share things that I'm interested and excited
 -
 
 ### License
-[1]: https://www.tu-braunschweig.de)
+[1]: https://www.tu-braunschweig.de
 [2]: https://www.tu-braunschweig.de/en/ism/research-workgroups/multiphase-flows-and-icing/page/2
 [3]: https://www.tu-braunschweig.de/ism
