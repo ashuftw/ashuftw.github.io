@@ -1,9 +1,13 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+title: CV 
+author: Ashu
+date: 2023-05-03
+category: Basic
 layout: post
 ---
 
-This is an about page.
+Education
+
+Work
+
+Professional Associations

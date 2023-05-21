@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head>
-
         {%- include head.html -%}
 
         {% assign reversed_posts = site.posts | reverse %}
@@ -10,6 +9,7 @@
             <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
         {% endif %}
     </head>
+
     <body>
         <div class="book">
 
@@ -25,9 +25,8 @@
                         {% else %}
                             <a href="." >{{ site.title | escape }}</a>
                         {% endif %}
-                    </h1>
+                    </h1>                    
                 </div>
-
                 <div class="body-inner">
                     {%- include body.html -%}
 
