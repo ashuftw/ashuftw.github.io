@@ -15,7 +15,7 @@ The purpose of this website is to I share things that I'm interested and excited
 
 ### License
 
-[1](/media/images/230521-selfie.jpeg)
+[1]: /media/images/230521-selfie.jpeg
 [2]: https://www.tu-braunschweig.de
 [3]: https://www.tu-braunschweig.de/en/ism/research-workgroups/multiphase-flows-and-icing/page/2
 [4]: https://www.tu-braunschweig.de/ism
