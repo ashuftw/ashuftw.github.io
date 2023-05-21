@@ -1,5 +1,5 @@
 # Configurations
-title:            Ashu Gitbook
+title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
 author:           HE Tao
 email:            sighingnow@gmail.com
@@ -8,7 +8,6 @@ description: >
 
 version:          1.0
 gitbook_version:  3.2.3
-2
 url:              'https://ashuftw.github.io'
 baseurl:          
 rss:              RSS
