@@ -8,9 +8,9 @@ description: >
 
 version:          1.0
 gitbook_version:  3.2.3
-
+2
 url:              'https://ashuftw.github.io'
-baseurl:          '/ashuftw.github.io'
+baseurl:          
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
