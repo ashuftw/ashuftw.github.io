@@ -13,6 +13,12 @@ layout: post
 ![image](/assets/images/221028.jpeg)
 *If I'm not for myself, who is. If I'm only for myself, who am I?*
 
+![image](/assets/images/220327.jpeg)
+*If this isn't nice, I don't know what is.*
+
+![image](/assets/images/220327-b.jpeg)
+*There is heat in freezing. Be a testament.*
+
 ### 2021
 
 ### 2020
