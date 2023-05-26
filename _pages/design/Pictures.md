@@ -55,15 +55,20 @@ Well this aged poorly.
 
 ![image](/assets/images/220327-b.jpeg)
 
----
-
-
 
 ---
 
 ### 2021
 
 ### 2020
+
+![image](/assets/images/201018.jpeg)
+
+---
+### 2019
+> <p align="center">"What makes night within us may leave stars."</p>
+![image](/assets/images/191109.jpg)
+
 
 ### 2019
 > <p align="center">"What makes night within us may leave stars."</p>
