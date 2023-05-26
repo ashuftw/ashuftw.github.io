@@ -8,23 +8,55 @@ layout: post
 
 ---
 ### 2023
+![image](/assets/images/230301.jpGg)
+
+
+![image](/assets/images/230214.jpg)
+
+![image](/assets/images/230101.jpeg)
+
+
 
 ---
 
 ### 2022
 
-![image](/assets/images/221028.jpeg)
-> If I'm not for myself, who is. If I'm only for myself, who am I?
+Bon Hiver!
+![image](/assets/images/221217.jpeg)
 
 ---
+<p align="center">"If I'm not for myself, who is. If I'm only for myself, who am I?"</p>
+
+![image](/assets/images/221028.jpeg)
+
+---
+BIA
+![image](/assets/images/220925.jpg)
+
+---
+
+On the way home.
+![image](/assets/images/220701.jpeg)
+
+---
+
+Well this aged poorly. 
+![image](/assets/images/220411.jpeg)
+
+---
+> <p align="center">"If this isn't nice, I don't know what is."</p>
 
 ![image](/assets/images/220327.jpeg)
-> If this isn't nice, I don't know what is.
+
+![image](/assets/images/220327-a.jpeg)
+
+> <p align="center">"There is heat in freezing. Be a testament."</p>
+
+![image](/assets/images/220327-b.jpeg)
 
 ---
 
-![image](/assets/images/220327-b.jpeg)
-> There is heat in freezing. Be a testament.
+
 
 ---
 
@@ -33,10 +65,12 @@ layout: post
 ### 2020
 
 ### 2019
+> <p align="center">"What makes night within us may leave stars."</p>
 ![image](/assets/images/191109.jpg)
-> What makes night within us may leave out stars.
 
 ---
 
-![image](/assets/images/190324.jpeg)
 Vonnegut for the win.
+![image](/assets/images/190324.jpeg)
+
+
