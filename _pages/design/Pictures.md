@@ -68,13 +68,13 @@ A wild Tjay appeared!
 
 ---
 ### 2019
-> <p align="center">"What makes night within us may leave stars."</p>
+> <p align="center">"What makes night within us may leave stars."</p> 
 ![image](/assets/images/191109.jpg)
 
 
 ---
 
-Vonnegut for the win.
+>Vonnegut for the win.
 ![image](/assets/images/190324.jpeg)
 
 
