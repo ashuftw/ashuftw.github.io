@@ -26,7 +26,7 @@ Bon Hiver!
 ![image](/assets/images/221217.jpeg)
 
 ---
-<p align="center">"If I'm not for myself, who is. If I'm only for myself, who am I?"</p>
+> <p align="center">"If I'm not for myself, who is. If I'm only for myself, who am I?"</p>
 
 ![image](/assets/images/221028.jpeg)
 
