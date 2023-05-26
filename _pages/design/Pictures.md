@@ -72,10 +72,6 @@ A wild Tjay appeared!
 ![image](/assets/images/191109.jpg)
 
 
-### 2019
-> <p align="center">"What makes night within us may leave stars."</p>
-![image](/assets/images/191109.jpg)
-
 ---
 
 Vonnegut for the win.
