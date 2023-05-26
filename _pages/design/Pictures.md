@@ -59,6 +59,7 @@ Well this aged poorly.
 ---
 
 ### 2021
+![image](/assets/images/210801.jpeg)
 
 ### 2020
 
