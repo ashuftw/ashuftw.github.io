@@ -1,6 +1,9 @@
 ---
 ---
-
+@font-face {
+    font-family: Inconsolata;
+    src: url(fonts/Inconsolata/Inconsolata-Bold.ttf);
+}
 .book-body {
     overflow-y: scroll;
 }
