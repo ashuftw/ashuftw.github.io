@@ -41,7 +41,7 @@ Secondary School Leaving Certificate
 - Mentored interns & fellows, conduct workshops.
 - Created OpenFOAM content for the Spoken-Tutorials MOOC platform.
 
-<span style="float: right;">Mar 2021 - April 2021</span>
+<span style="float: right;">Mar 2021 - Apr 2021</span>
 **Prime Orthopedics**, Bangalore  
 *Intern*  
 - R&D of 3D Printable moulds for Cement Spacer disk used in knee replacements.
@@ -52,9 +52,9 @@ Secondary School Leaving Certificate
 - Helped conduct a workshop on using OpenFOAM for CFD.
 - Proof read assignments and wrote supporting comments in the code.
 
+<span style="float: right;">Jan 2020 - Mar 2020</span>
 **Indian Space Research Organisation**, Bangalore  
 *Trainee*  
-*Jan 2020-Mar 2020*  
 - Learned to design antennas for space applications.
 - Studied the functioning of Deep Space Networks.
 

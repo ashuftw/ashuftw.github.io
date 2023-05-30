@@ -4,6 +4,12 @@
     font-family: Inconsolata;
     src: url(fonts/Inconsolata/Inconsolata-Bold.ttf);
 }
+
+@font-face {
+    font-family: Courier-Prime;
+    src: url(fonts/Courier_Prime/CourierPrime-Regular.ttf);
+}
+
 .book-body {
     overflow-y: scroll;
 }
@@ -158,7 +164,7 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: Georgia, serif;
+    font-family: "Courier-Prime", Georgia, serif;
 }
 .book.font-family-1 {
     font-family: "Inconsolata", Helvetica Neue, Helvetica, Arial, sans-serif;
