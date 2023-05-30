@@ -8,42 +8,47 @@ layout: post
 
 ---
 ### Education
+<span style="float: right;">2022-Current</span>
 **Technische Universität Braunschweig**, Germany.  
-Master of Science in Computational Sciences in Engineering
-*2022-Current*
+Master of Science in Computational Sciences in Engineering 
 
+<span style="float: right;">2021</span>
 **Visvesvaraya Technological University**, India.  
 Bachelor of Engineering in Mechanical Engineering
-*2017-2021*
 
+<span style="float: right;">2017</span>
 **Alvas Pre-University College**, India.  
-Pre-University Examination  
-*2015-2017*
+Pre-University Examination 
+
+<span style="float: right;">2015</span>
+**Sri Kumaran Children's Home**, India.  
+Secondary School Leaving Certificate
 
 ---
 
 ### Work Experience
+<span style="float: right;">Jan 2023-Current</span>
+
 **Institut für Strömungsmechanik, TU Braunschweig**  
 *Hilfswissenschaftler*  
-*January 2023-Current*
 - Experimental Analysis of Ice Crystal Accretion in Aircrafts
 - Operation of Icing Wind Tunnel
 
+<span style="float: right;">Mar 2022 - Sep 2022</span>
 **FOSSEE, Indian Institute of Technology-Bombay**  
 *Project Research Assistant*  
-*Mar 2022-Aug 2022*  
 - Worked on simulations using various OpenFOAM solvers.
 - Mentored interns & fellows, conduct workshops.
 - Created OpenFOAM content for the Spoken-Tutorials MOOC platform.
 
+<span style="float: right;">Mar 2021 - April 2021</span>
 **Prime Orthopedics**, Bangalore  
 *Intern*  
-*Mar 2021-Apr 2021* 
 - R&D of 3D Printable moulds for Cement Spacer disk used in knee replacements.
 
+<span style="float: right;">Sep 2022 - Sep 2022</span>
 **FOSSEE, Indian Institute of Technology-Bombay**  
 *Teaching Assistant*  
-*Sep 2020-Sep 2020*  
 - Helped conduct a workshop on using OpenFOAM for CFD.
 - Proof read assignments and wrote supporting comments in the code.
 
