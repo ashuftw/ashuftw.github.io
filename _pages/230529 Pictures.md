@@ -26,7 +26,7 @@ Bon Hiver!
 ![image](/assets/images/221217.jpeg)
 
 ---
-> <p align="center">"If I'm not for myself, who is. If I'm only for myself, who am I?"</p>
+<p align="center">"If I'm not for myself, who is. If I'm only for myself, who am I?"</p>
 
 ![image](/assets/images/221028.jpeg)
 
@@ -45,13 +45,13 @@ Well this aged poorly.
 ![image](/assets/images/220411.jpeg)
 
 ---
-> <p align="center">"If this isn't nice, I don't know what is."</p>
+<p align="center">"If this isn't nice, I don't know what is."</p>
 
 ![image](/assets/images/220327.jpeg)
 
 ![image](/assets/images/220327-a.jpeg)
 
-> <p align="center">"There is heat in freezing. Be a testament."</p>
+<p align="center">"There is heat in freezing. Be a testament."</p>
 
 ![image](/assets/images/220327-b.jpeg)
 
@@ -68,7 +68,7 @@ A wild Tjay appeared!
 
 ---
 ### 2019
-> <p align="center">"What makes night within us may leave stars."</p> 
+<p align="center">"What makes night within us may leave stars."</p> 
 ![image](/assets/images/191109.jpg)
 
 
