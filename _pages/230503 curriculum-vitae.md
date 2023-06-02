@@ -46,7 +46,7 @@ Secondary School Leaving Certificate
 *Intern*  
 - R&D of 3D Printable moulds for Cement Spacer disk used in knee replacements.
 
-<span style="float: right;">Sep 2022 - Sep 2022</span>
+<span style="float: right;">Sep 2021 - Sep 2021</span>
 **FOSSEE, Indian Institute of Technology-Bombay**  
 *Teaching Assistant*  
 - Helped conduct a workshop on using OpenFOAM for CFD.
