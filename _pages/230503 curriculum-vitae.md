@@ -27,7 +27,7 @@ Secondary School Leaving Certificate
 ---
 
 ### Work Experience
-<span style="float: right;">Jan 2023-Current</span>
+<span style="float: right;">Jan 2023 - Current</span>
 
 **Institut für Strömungsmechanik, TU Braunschweig**  
 *Hilfswissenschaftler*  
