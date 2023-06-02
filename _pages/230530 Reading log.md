@@ -1,5 +1,5 @@
 ---
-title: Books 
+title: Reading log 
 author: ashuftw
 layout: post
 ---
