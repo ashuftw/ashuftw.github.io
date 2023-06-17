@@ -23,4 +23,7 @@ At this point, I'm compelled to share a parable that DFW used in his [commenceme
 
 *There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says “Morning, boys. How’s the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes “**What the hell is water?**”*
 
----
+
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/images/230617-page-ending-flourish.png" alt="image" style="max-width: 100px;">
+</div>
