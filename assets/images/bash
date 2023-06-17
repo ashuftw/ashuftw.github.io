@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Specify the input directory containing the images
+input_directory="/home/ashu/code/ashuftw.github.io/assets/images"
+
+# Specify the output directory for the thumbnails
+output_directory="/home/ashu/code/ashuftw.github.io/assets/images"
+
+# Iterate over the images in the input directory
+for image_file in "$input_directory"/*.png; do
+    # Extract the filename without the extension
+    filename=$(basename "$image_file" .png)
+
+    # Generate the output filename for the thumbnail
+    thumbnail_file="$output_directory/thumb.$filename.png"
+
+    # Perform the conversion using the 'convert' command
+    convert -thumbnail 200 "$image_file" "$thumbnail_file"
+
+    echo "Converted $image_file to $thumbnail_file"
+done
+
