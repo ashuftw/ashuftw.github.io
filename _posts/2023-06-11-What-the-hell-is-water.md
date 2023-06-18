@@ -7,7 +7,7 @@ layout: post
 ---
 <div class="date" style="text-align: right;">June 17, 2023</div>
 
-A few weeks ago, I was in Berlin for a couple of days. It was my first time there so a friend decided to show me around town. It was sunny and bright and crowded, not unlike my hometown back in India. As we rode our bikes around the city, I would get these ephemeral moments of nostalgia. I felt transported back in time when I would cycle home from Sunday Basketball practice at Madhavan Park. It really was something.
+A few weeks ago, I was in Berlin for a couple of days. It was my first time there, so a friend decided to show me around town. It was sunny and bright, and crowded, not unlike my hometown back in India. As we rode our bikes around the city, I would get these ephemeral moments of nostalgia. I felt transported back in time when I would cycle home from Sunday basketball practice at Madhavan Park. It really was something.
 
 I couldn't put my finger on it, and no, it wasn't Déjà vu. But if I could make a pithy contraction, it would be that places and moments can make you feel the same way you did, thousands of miles apart.  
 
