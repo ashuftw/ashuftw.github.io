@@ -9,23 +9,23 @@ The "✭" next to the title indicates that it's a recommendation either because 
 <span style="float: right;">Frank Herbert</span>
 **Dune** ✭
 <br>
-<span style="float: right; font-size: 13px;">Friday 24 June</span>
+<span style="float: right; font-size: 12px;">Friday 24 June</span>
 
 ---
 <span style="float: right;">Alexander R. Luria</span>
 **The Mind of a Mnemonist** ✭
 <br>
-<span style="float: right; font-size: 13px;">Thursday 16 March</span>
+<span style="float: right; font-size: 12px;">Thursday 16 March</span>
 
 ---
 <span style="float: right;">Neal Stephenson </span>
 **Snow Crash** ✭
 <br>
-<span style="float: right; font-size: 13px;">Thursday 5 January</span>
+<span style="float: right; font-size: 12px;">Thursday 9 March</span>
 
 ---
 <span style="float: right;">Neil Gaiman</span>
 **The Graveyard Book**  
-<span style="float: right; font-size: 13px;">Thursday 5 January</span>
+<span style="float: right; font-size: 12px;">Thursday 5 January</span>
 
 ---
