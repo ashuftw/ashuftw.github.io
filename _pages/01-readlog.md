@@ -19,7 +19,7 @@ The "✭" next to the title indicates that it's a recommendation either because 
 
 ---
 <span style="float: right;">Alexander R. Luria</span>
-**The Mind of a Mnemonist** ✭
+**The Mind of a Mnemonist** 
 <br>
 <span style="float: right; font-size: 12px;">Thursday 16 March</span>
 
