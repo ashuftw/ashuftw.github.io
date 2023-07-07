@@ -6,6 +6,15 @@ layout: post
 The "✭" next to the title indicates that it's a recommendation either because I believe it is well-written or because it has prompted metanoia at some level. "⟳" indicates that it's a reread.
 
 ### 2023
+<span style="float: right;">Benny Lewis</span>
+**Fluent in 3 Months** 
+<br>
+<span style="float: right; font-size: 12px;">Friday 7 July</span>
+<span style="float: left;font-size: 12px;">
+*How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World*
+</span>
+
+---
 <span style="float: right;">Hank Green</span>
 **An Absolutely Remarkable Thing** 
 <br>
@@ -22,6 +31,9 @@ The "✭" next to the title indicates that it's a recommendation either because 
 **The Mind of a Mnemonist** 
 <br>
 <span style="float: right; font-size: 12px;">Thursday 16 March</span>
+<span style="float: left;font-size: 12px;">
+*A Little Book about a Vast Memory*
+</span>
 
 ---
 <span style="float: right;">Neal Stephenson </span>
