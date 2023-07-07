@@ -68,8 +68,19 @@ A wild Tjay appeared!
 
 ---
 ### 2019
+
 <p align="center">"What makes night within us may leave stars."</p> 
 ![image](/assets/images/191109.jpg)
+
+
+---
+<p align="center">"The moment seizes us."</p> 
+![image](/assets/images/191028.jpg)
+
+
+---
+<p align="center">"It is just us and, in the firmament above, the light of a billion billion dying stars."</p> 
+![image](/assets/images/191002.jpeg)
 
 
 ---
