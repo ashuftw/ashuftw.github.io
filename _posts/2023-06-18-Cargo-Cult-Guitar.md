@@ -5,7 +5,7 @@ date: 2023-06-18
 category: blog
 layout: post
 ---
-<div class="date" style="text-align: right;">June 18, 2023</div>
+<div class="date" style="text-align: right;">August 15, 2023</div>
 
 I've been playing the guitar on and off for over 10 years now, and lately, I've been questioning how it fits into my life and what that means to me.
 
