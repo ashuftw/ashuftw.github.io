@@ -4,30 +4,87 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
+  <loc>https://ashuftw.github.io/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/pages/00-curriculum-vitae/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/pages/01-readlog/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/pages/02-pictures/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/pages/03-links/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/pages/04-contact/</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/blog/2023-05-29-On-why.html</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/poem/2023-06-10-Clouds.html</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/blog/2023-06-11-What-the-hell-is-water.html</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/blog/2023-06-18-Cargo-Cult-Guitar.html</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ashuftw.github.io/.</loc>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://ashuftw.github.io/pages/00-curriculum-vitae/.</loc>
-  <lastmod>2023-08-14T14:32:09+00:00</lastmod>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.github.io/pages/01-readlog/.</loc>
-  <lastmod>2023-08-14T14:32:09+00:00</lastmod>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.github.io/pages/02-pictures/.</loc>
-  <lastmod>2023-08-14T14:32:09+00:00</lastmod>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.github.io/pages/03-links/.</loc>
-  <lastmod>2023-08-14T14:32:09+00:00</lastmod>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.github.io/pages/04-contact/.</loc>
-  <lastmod>2023-08-14T14:32:09+00:00</lastmod>
+  <lastmod>2023-08-15T10:18:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
