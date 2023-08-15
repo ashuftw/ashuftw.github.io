@@ -57,7 +57,7 @@ The applicability of these questions may be in fact "questionable" but I genuine
 Getting back to the **Cargo Cult Guitar**, I think the biggest trap there was fooling myself and creating needless obstacles that kept me from improvising, trying ideas or just creating music. The false narrative that I told myself was that if I somehow got better at the instrument, I'd sound less bad. Which in a correlative sense maybe true. But if the goal is to say, write a song. The best way to get good at that is to actually write a song. And as Robert Greene says, it's okay to be slightly under-prepared when starting something 'cause then you can rise to the occasion. On the path of being good at that, I just have to accept that I will sound bad and not use that as a reason to procrastinate with a new exercise or cover, solely to feel productive. If I wanna do any of those things, it should be on its own term.
 
 
-That's all I have to say about that for now. And oh, I'd like to add that I now have a guitar teacher. I went to see a band playing at the local pub and after the show, I asked him to be my teacher and he agreed! So there's to that!
+That's all I have to say about that for now. And oh, I'd like to add that I now have a guitar teacher. I went to see a band playing at the local pub and after the show, I asked him to be my teacher and he agreed! So here's to that!
 
 
 <div style="display: flex; justify-content: center;">
