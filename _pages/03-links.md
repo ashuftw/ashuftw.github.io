@@ -6,7 +6,7 @@ layout: post
 
 ---
 ## ashuftw - YouTube
-All things music related.
+All things music!
 <iframe width="560" height="300" src="https://www.youtube.com/embed/kAj2Vwqq2-8" frameborder="0" allowfullscreen></iframe>
 ## Skedaddle or Skeddadle 
 Readouts of my posts here in Podcast form. 
