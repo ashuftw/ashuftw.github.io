@@ -42,13 +42,13 @@ Of course, my linguistic framework of communication far supersedes the musical o
 	- Do I read off my CV?
 	- Do I announce my vitals?
 	- Do I talk about my achievements?
-	Or
+	Or,
 	- Do I come in with a smile, make small talk, ask someone how they are doing? 
 - What do I say?
 	- Do I read off of a note?
 	- Do I spell the alphabet from end to end?
 	- Do I show off the new word that I just learnt?
-	Or
+	Or,
 	- Do I tell a story, make banter, pull in anecdotes or paraphrase a quote? 
 
 The applicability of these questions may be in fact "questionable" but I genuinely think it's a good to have them in the back of my mind. 
