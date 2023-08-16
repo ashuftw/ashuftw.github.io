@@ -79,7 +79,7 @@ A wild Tjay appeared!
 
 
 ---
-<p align="center">"It is just us and, in the firmament above, the light of a billion billion dying stars."</p> 
+<p align="center">"Be the person your dog thinks you are."</p> 
 ![image](/assets/images/191004.jpg)
 
 ---
