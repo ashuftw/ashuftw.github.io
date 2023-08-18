@@ -77,9 +77,8 @@ A wild Tjay appeared!
 <p align="center">"The moment seizes us."</p> 
 ![image](/assets/images/191028.jpg)
 
-
 ---
-<p align="center">"Be the person your dog thinks you are."</p> 
+The Goodboy Mugshot. 
 ![image](/assets/images/191004.jpg)
 
 ---
