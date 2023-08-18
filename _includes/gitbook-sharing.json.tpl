@@ -9,7 +9,7 @@
                 "telegram_link": "https://t.me",
 
                 "instapaper": false,
-                "twitter": fals,
+                "twitter": false,
                 "vk": false,
 
                 "weibo": false,
