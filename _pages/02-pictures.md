@@ -8,15 +8,11 @@ layout: post
 
 ---
 ### 2023
+<img class="resized-image" src="/assets/images/230313.jpg" alt="Resized Image">
 
-![image](/assets/images/230313.jpg)
+<img class="resized-image" src="/assets/images/230214.jpg" alt="Resized Image">
 
-
-![image](/assets/images/230214.jpg)
-
-![image](/assets/images/230101.jpeg)
-
-
+<img class="resized-image" src="/assets/images/230101.jpeg" alt="Resized Image">
 
 ---
 
@@ -78,7 +74,7 @@ A wild Tjay appeared!
 ![image](/assets/images/191028.jpg)
 
 ---
-The Goodboy Mugshot. 
+Mugshot of the Goodest-Boy-in-the-World. 
 ![image](/assets/images/191004.jpg)
 
 ---
