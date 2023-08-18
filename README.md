@@ -12,5 +12,5 @@ I'm [Ashu](assets/images/230521-selfie.jpeg){:target="_blank"}. I study Computat
 ## Recent
 - [Cargo Cult Guitar](blog/2023-06-18-Cargo-Cult-Guitar.html) <span style="float: right;">August 15, 2023</span>
 - [What the hell is water?](blog/2023-06-11-What-the-hell-is-water.html) <span style="float: right;">June 17, 2023</span>
-- [Clouds](poem/2023-06-10-Clouds.html) <span style="float: right;">June 12, 2020</span>
+- [Clouds](blog/2023-06-10-Clouds.html) <span style="float: right;">June 12, 2020</span>
 - [On Why](blog/2023-05-29-On-why.html) <span style="float: right;">May 29, 2023</span>
