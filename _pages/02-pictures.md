@@ -8,7 +8,7 @@ layout: post
 
 ---
 ### 2023
-<img class="resized-image" src="/assets/images/230827.jpg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/230827.jpeg" alt="Resized Image">
 
 ---
 <img class="resized-image" src="/assets/images/230313.jpg" alt="Resized Image">
