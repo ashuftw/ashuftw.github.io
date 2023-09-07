@@ -7,7 +7,7 @@ The "✭" next to the title indicates that it's a recommendation either because 
 
 ### 2023
 <span style="float: right;">Tara Brach</span>
-**Radical Acceptance** ✭
+**Radical Acceptance** 
 <br>
 <span style="float: right; font-size: 12px;">Thursday, September 7</span>
 
