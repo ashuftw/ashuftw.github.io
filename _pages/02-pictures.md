@@ -21,6 +21,7 @@ Somewhere in Bremen.
 ---
 <img class="resized-image" src="/assets/images/230313.jpg" alt="Resized Image">
 
+Sunset by the Stoá. 
 ---
 
 <img class="resized-image" src="/assets/images/230214.jpg" alt="Resized Image">
