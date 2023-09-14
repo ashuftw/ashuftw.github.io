@@ -8,7 +8,14 @@ layout: post
 
 ---
 ### 2023
+<img class="resized-image" src="/assets/images/230910.jpeg" alt="Resized Image">
+
+<p align="center">"Universe is change, life is opinion."</p>
+
+---
+
 <img class="resized-image" src="/assets/images/230827.jpeg" alt="Resized Image">
+
 Somewhere in Bremen.
 
 ---
@@ -105,6 +112,11 @@ Mugshot of the Goodest-Boy-in-the-World.
 <img class="resized-image" src="/assets/images/191002.jpeg" alt="Resized Image">
 
 <p align="center">"It is just us and, in the firmament above, the light of a billion billion dying stars."</p> 
+
+---
+
+<img class="resized-image" src="/assets/images/190924.jpg" alt="Resized Image">
+<p align="center">“I embraced a cloud,but when I soared it rained.” </p>
 
 ---
 
