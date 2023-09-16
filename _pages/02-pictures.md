@@ -27,6 +27,8 @@ Sunset by the Stoá.
 
 <img class="resized-image" src="/assets/images/230214.jpg" alt="Resized Image">
 
+<p align="center">"Beautiful things don't ask for attention."</p>
+
 ---
 
 <img class="resized-image" src="/assets/images/230101.jpeg" alt="Resized Image">
