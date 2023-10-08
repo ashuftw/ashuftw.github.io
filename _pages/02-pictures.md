@@ -76,11 +76,12 @@ Well this aged poorly.
 
 ---
 
-<img class="resized-image" src="/assets/images/220327-b.jpeg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/220111.jpeg" alt="Resized Image">
 
-<p align="center">"There is heat in freezing. Be a testament."</p>
+<p align="center">"... and the mind of the Great Being was not moved."</p>
 
 ---
+
 
 ### 2021
 <img class="resized-image" src="/assets/images/210801.jpeg" alt="Resized Image">
