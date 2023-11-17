@@ -41,7 +41,7 @@ layout: post
 - Proof read assignments and wrote supporting comments in the code.
 
 <span style="float: right;">Jan 2020 - Mar 2020</span>
-**Indian Space Research Organisation**, Bangalore.
+**Indian Space Research Organisation**, Bangalore.    
 *Trainee*  
 - Learned to design antennas for space applications.
 - Studied functioning of Deep Space Networks.
