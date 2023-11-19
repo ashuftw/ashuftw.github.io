@@ -17,7 +17,7 @@ layout: post
 
 <span style="float: right;">Jan 2023 - Oct 2023</span>
 
-**Institut für strömungsmechanik**, TU Braunschweig.  
+**Institut für Strömungsmechanik**, TU Braunschweig.  
 *Research Assistant*
 - Experimental analysis of Ice Crystal Accretion in aircrafts
 - Implemented Heat Transfer models in existing Particle Tracking code.
