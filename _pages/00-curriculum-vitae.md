@@ -15,11 +15,17 @@ layout: post
 *Research Assistant*  
 - CFD simulation of Particle Mixers.
 
+<span style="float: right;">Sep 2023 - Oct 2023</span>
+
+**Coldsense Technologies GmbH**, Braunschweig.  
+*Work Student*
+- Manufacturing and testing of Ice-Detectors.
+
 <span style="float: right;">Jan 2023 - Oct 2023</span>
 
 **Institut für Strömungsmechanik**, TU Braunschweig.  
 *Research Assistant*
-- Experimental analysis of Ice Crystal Accretion in aircrafts
+- Experimental analysis of Ice Crystal Accretion in aircrafts.
 - Implemented Heat Transfer models in existing Particle Tracking code.
 
 <span style="float: right;">Mar 2022 - Sep 2022</span>
@@ -84,7 +90,7 @@ layout: post
 
 **Design and Analysis of 2.4m Cassegrain Antenna**  
 (Performed at Indian Space Research Organisation)  
-- Designed the backup structure to sustain loads from wind speeds of 60 kmph.
+- CAD modeling of Backup structure to sustain loads from wind speeds of 60 kmph.
 - Performed Finite Element Analysis.
 
 ---
