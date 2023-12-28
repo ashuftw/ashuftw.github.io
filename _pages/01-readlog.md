@@ -6,6 +6,13 @@ layout: post
 The "✭" next to the title indicates that it's a recommendation either because I believe it is well-written or because it has prompted metanoia at some level. "⟳" indicates that it's a reread.
 
 ### 2023
+<span style="float: right;">Chitra Banerjee Divakaruni
+</span>
+**The Palace of Illusions** 
+<br>
+<span style="float: right; font-size: 12px;">Wednesday, December 27</span>
+
+---
 <span style="float: right;">Kai Bird & Martin J. Sherwin
 </span>
 **American Prometheus** 
