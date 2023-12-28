@@ -8,7 +8,7 @@ The "✭" next to the title indicates that it's a recommendation either because 
 ### 2023
 <span style="float: right;">Chitra Banerjee Divakaruni
 </span>
-**The Palace of Illusions** 
+**The Palace of Illusions** ✭
 <br>
 <span style="float: right; font-size: 12px;">Wednesday, December 27</span>
 
