@@ -6,6 +6,7 @@ layout: post
 The "✭" next to the title indicates that it's a recommendation either because I believe it is well-written or because it has prompted metanoia at some level. "⟳" indicates that it's a reread.
 
 ### 2023
+
 <span style="float: right;">Jen Beagin
 </span>
 **Big Swiss**
