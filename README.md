@@ -3,7 +3,7 @@ layout: home
 title: Ahoy! 
 permalink: /
 ---
-I'm [Ashuthosh Shridhar](assets/images/230521-selfie.jpeg){:target="_blank"}. I'm broadly interested in ideas of rationality, learning, altruism and mindfulness. 
+I'm [Ashuthosh Shridhar](assets/images/230521-selfie.jpeg){:target="_blank"}. I'm broadly interested in ideas related to rationality, learning, altruism and mindfulness. 
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/images/230603-the-great-wave-jake-loris.png" alt="image" style="max-height: 300px;">
