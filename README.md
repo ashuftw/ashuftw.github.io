@@ -9,7 +9,7 @@ I'm [Ashuthosh Shridhar](assets/images/230521-selfie.jpeg){:target="_blank"}. I'
   <img src="/assets/images/230603-the-great-wave-jake-loris.png" alt="image" style="max-height: 300px;">
 </div>
 
-## Recent
+## Skedaddle or Skedaddle
 - [I see you, Māra!](blog/2023-09-19-I-see-you-Mara.html) <span style="float: right;">September 19, 2023</span>
 - [Cargo Cult Guitar](blog/2023-06-18-Cargo-Cult-Guitar.html) <span style="float: right;">August 15, 2023</span>
 - [What the hell is water?](blog/2023-06-11-What-the-hell-is-water.html) <span style="float: right;">June 17, 2023</span>
