@@ -10,7 +10,7 @@ I'm [Ashuthosh Shridhar](assets/images/230521-selfie.jpeg){:target="_blank"}. I'
 </div>
 
 ## Skedaddle or Skedaddle
-- [What is Skedaddle or Skedaddle?]<span style="float: right;">March 16, 2024</span>(2024-03-16-What-is-Skedaddle-or-Skedaddle.html)
+- [What is Skedaddle or Skedaddle?](blog/2024-03-16-What-is-Skedaddle-or-Skedaddle.html)<span style="float: right;">March 16, 2024</span>
 - [I see you, Māra!](blog/2023-09-19-I-see-you-Mara.html) <span style="float: right;">September 19, 2023</span>
 - [Cargo Cult Guitar](blog/2023-06-18-Cargo-Cult-Guitar.html) <span style="float: right;">August 15, 2023</span>
 - [What the hell is water?](blog/2023-06-11-What-the-hell-is-water.html) <span style="float: right;">June 17, 2023</span>
