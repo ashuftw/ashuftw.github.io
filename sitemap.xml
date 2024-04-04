@@ -11,11 +11,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ashuftw.com/assets/search.html</loc>
-  <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://ashuftw.com/pages/01-readlog/</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -43,27 +38,27 @@
 <url>
   <loc>https://ashuftw.com/blog/2023-06-10-Clouds.html</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.com/blog/2023-06-11-What-the-hell-is-water.html</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.com/blog/2023-06-18-Cargo-Cult-Guitar.html</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.com/blog/2023-09-19-I-see-you-Mara.html</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.com/blog/2024-03-16-What-is-Skedaddle-or-Skedaddle.html</loc>
   <lastmod>2024-03-30T18:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ashuftw.com/assets/CV.pdf</loc>
