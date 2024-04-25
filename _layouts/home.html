@@ -1,14 +1,14 @@
 <!DOCTYPE HTML>
-<html lang="en" >
-    <head>
-        {%- include head.html -%}
+<html lang="en">
+<head>
+    {%- include head.html -%}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    {% assign reversed_posts = site.posts | reverse %}
 
-        {% assign reversed_posts = site.posts | reverse %}
-
-        {% if reversed_posts %}
-            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
-        {% endif %}
-    </head>
+    {% if reversed_posts %}
+        <link rel="next" href="{{ reversed_posts.first.url | absolute_url }}" />
+    {% endif %}
+</head>
 
     <body>
         <div class="book">
