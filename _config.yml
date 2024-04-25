@@ -8,7 +8,8 @@ description: >
 
 version:          1.0
 gitbook_version:  3.2.3
-url:              'https://ashuftw.github.io'
+#url:              'https://ashuftw.github.io'
+url:              'https://ashuftw.com'
 baseurl:          
 rss:              RSS
 
