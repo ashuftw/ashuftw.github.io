@@ -1,5 +1,5 @@
 ---
-title: What is Skedaddle or Skedaddle?
+title: What does it mean to Skedaddle?
 author: ashu
 date: 2024-03-16
 category: blog

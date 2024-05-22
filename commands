@@ -1,2 +1,2 @@
 bundle exec jekyll serve
-git add .  && git commit -m "config.yml" && git push
+git add .  && git commit -m "new-post" && git push
