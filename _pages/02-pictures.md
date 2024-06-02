@@ -5,27 +5,33 @@ layout: post
 ---
 
 <p align="center">"You don't take a picture, you make one."</p>
+---
+
+### 2024
+<img class="resized-image" src="/assets/images/240523.JPG" alt="Car in Sunset">
+
+<p align="center">"We are who we are in terms of others."</p>
 
 ---
 ### 2023
-<img class="resized-image" src="/assets/images/230910.jpeg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/230910.jpeg" alt="Berlin Tower in the night">
 
 <p align="center">"Universe is change, life is opinion."</p>
 
 ---
 
-<img class="resized-image" src="/assets/images/230827.jpeg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/230827.jpeg" alt="An old Motorcycle">
 
 Somewhere in Bremen.
 
 ---
-<img class="resized-image" src="/assets/images/230313.jpg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/230313.jpg" alt="Golden Hour">
 
 Sunset by the Stoá. 
 
 ---
 
-<img class="resized-image" src="/assets/images/230214.jpg" alt="Resized Image">
+<img class="resized-image" src="/assets/images/230214.jpg" alt="Houses by the Countryside">
 
 <p align="center">"Beautiful things don't ask for attention."</p>
 
