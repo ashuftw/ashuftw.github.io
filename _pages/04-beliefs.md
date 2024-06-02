@@ -7,7 +7,7 @@ layout: post
 ---
 - Self improvement. I accept that I am fundamentally flawed. The pursuit to be better is the beginning and the end. 
 
-- Practicing color blindness in my personal life. 
+- Practicing [color blindness](https://www.youtube.com/watch?v=QxB3b7fxMEA){:target="_blank"} in my personal life. 
 
 - Saying no. 
 
