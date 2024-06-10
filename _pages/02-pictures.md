@@ -82,6 +82,12 @@ Well this aged poorly.
 
 ---
 
+<img class="resized-image" src="/assets/images/220327-b.jpeg" alt="Resized Image">
+
+<p align="center">"There is heat in freezing, be a testament."</p>
+
+---
+
 <img class="resized-image" src="/assets/images/220111.jpeg" alt="Resized Image">
 
 <p align="center">"... and the mind of the Great Being was not moved."</p>
