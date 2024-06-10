@@ -74,11 +74,13 @@ Well this aged poorly.
 
 <img class="resized-image" src="/assets/images/220327.jpeg" alt="Resized Image">
 
-<p align="center">"If this isn't nice, I don't know what is."</p>
+<p align="center">"If you're happy in your head, then solitude is blessed and alone is okay."</p>
 
 ---
 
 <img class="resized-image" src="/assets/images/220327-a.jpeg" alt="Resized Image">
+
+<p align="center">"If this isn't nice, I don't know what is."</p>
 
 ---
 
