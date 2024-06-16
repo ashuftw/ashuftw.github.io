@@ -17,6 +17,8 @@ layout: post
 
 - The Universe loves you because you belong to it. 
 
+- [ “Happiness is available. Please help yourself to it.”](https://www.goodreads.com/quotes/833902-happiness-is-available-please-help-yourself-to-it){:target="_blank"}
+
 - Anger is useless. 
 
 - Kids should be taken seriously and treated as equals. I remember being a kid, wanting to punch adults who dumbed down or act retarded when speaking to me. Kids can see through your bullshit. 
