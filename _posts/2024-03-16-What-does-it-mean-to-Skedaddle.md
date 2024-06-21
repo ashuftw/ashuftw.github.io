@@ -1,5 +1,5 @@
 ---
-title: What does it mean to Skedaddle?
+title: But can you Skedaddle?
 author: ashu
 date: 2024-03-16
 category: blog
