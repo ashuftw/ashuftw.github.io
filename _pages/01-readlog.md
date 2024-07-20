@@ -5,6 +5,21 @@ layout: post
 ---
 The "✭" next to the title indicates that it's a recommendation either because I believe it is well-written or because it has prompted metanoia at some level. "⟳" indicates that it's a reread.
 
+### 2024 
+<span style="float: right;">Isaac Asimov
+</span>
+**Foundation**
+<br>
+<span style="float: right; font-size: 12px;">Monday, May 6</span>
+
+---
+<span style="float: right;">Arundati Roy
+</span>
+**The God of Small Things** ✭
+<br>
+<span style="float: right; font-size: 12px;">Saturday, March 9</span>
+
+---
 ### 2023
 <span style="float: right;">Benyamin
 </span>
