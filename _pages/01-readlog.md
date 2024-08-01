@@ -6,13 +6,14 @@ layout: post
 The "✭" next to the title indicates that it's a recommendation either because I believe it is well-written or because it has prompted metanoia at some level. "⟳" indicates that it's a reread.
 
 ### 2024 
-<span style="float: right;">
+<span style="float: right;">Robert Wright
 </span>
 **Why Buddhism is True**
 <br>
 <span style="float: right; font-size: 12px;">Thursday, August 01</span> 
 
-<span style="float: right;">Robert Write
+---
+<span style="float: right;">Jonathan Landaw
 </span>
 **Buddhism for Dummies**
 <br>
