@@ -6,7 +6,7 @@ permalink: /
 I'm [Ashuthosh Shridhar](assets/images/230521-selfie.jpeg){:target="_blank"}. I'm broadly interested in ideas related to rationality, learning, altruism and mindfulness. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/230603-the-great-wave-jake-loris.png" alt="image" style="max-height: 300px;">
+  <img src="/assets/images/logo.png" alt="illustration-of-a-boat-under-stars" style="max-height: 275px;">
 </div>
 
 ## Skedaddle or Skedaddle
